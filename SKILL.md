@@ -1,12 +1,9 @@
-
 ---
 name: seo-skills
 description: Enterprise-grade React SEO architecture and technical SEO optimization skill
 ---
 
 # Implementation Plan: Dynamic SEO & Editor Collapsible Fixes
-
-**Version:** 1.0
 
 
 
